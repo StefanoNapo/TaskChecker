@@ -153,7 +153,7 @@ public class MainFrame extends javax.swing.JFrame {
         jPanel1.add(deleteAllTasksButton);
         deleteAllTasksButton.setBounds(179, 512, 140, 22);
 
-        backGrLbl.setIcon(new javax.swing.ImageIcon("C:\\Users\\yosoy\\OneDrive\\Documentos\\NetBeansProjects\\taskChecker\\src\\main\\java\\com\\mycompany\\taskchecker\\images\\notebackgr.jpg")); // NOI18N
+        backGrLbl.setIcon(new javax.swing.ImageIcon("C:\\Users\\yosoy\\projects\\TaskChecker\\taskChecker\\src\\main\\java\\com\\mycompany\\taskchecker\\images\\notebackgr.jpg")); // NOI18N
         jPanel1.add(backGrLbl);
         backGrLbl.setBounds(0, 0, 430, 560);
         backGrLbl.getAccessibleContext().setAccessibleDescription("");
